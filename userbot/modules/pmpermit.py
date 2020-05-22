@@ -17,11 +17,11 @@ from userbot.events import register
 
 # ========================= CONSTANTS ============================
 UNAPPROVED_MSG = (
-    "`Sorry, I haven't approved you to PM yet.\n`"
-    "`Please wait for me to look in.\n`"
-    "`Until then, please don't spam My PM or you will get blocked...\n`"
-    "`Thank You\n\n`"
-    "`*This is an automated message.`")
+    "`Nanti Aja Chat Nya Sayang.\n`"
+    "`Dinda Sedang OFF 😘.\n`"
+    "`Jangan SPAM Dinda ya, Nanti Bisa Di Blok...\n`"
+    "`Makasi Sayang\n\n`"
+    "`*Chat Ke Bot Dinda Aja @Dinda_Ex_Bot.`")
 # =================================================================
 
 
